@@ -1,0 +1,13 @@
+# No external dependencies required
+# Tic Tac Toe by TheFallenAngel uses only Python standard library
+# Python 3.6+ required
+
+# Required modules (all built-in):
+# - tkinter (GUI)
+# - json (save/load)
+# - logging (error tracking)
+# - subprocess (installation)
+# - pathlib (file management)
+# - datetime (timestamps)
+# - shutil (file operations)
+# - ctypes (admin check)
