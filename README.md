@@ -323,6 +323,15 @@ If you found this project helpful:
 - 💡 Suggest new features
 - 🔄 Share with others
 
+## 📜 License & EULA
+
+This project includes two legal documents:
+
+- **MIT License** - Open source license for code usage and distribution
+- **EULA** - End User License Agreement with specific usage terms
+
+By using this software, you agree to both documents. See the `LICENSE` and `EULA` files in the repository root for full details.
+
 ---
 
 **Made with ❤️ by TheFallenAngel**
